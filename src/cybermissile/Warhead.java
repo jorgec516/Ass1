@@ -10,9 +10,9 @@ package cybermissile;
  * @author csc190
  */
 public class Warhead {
-    public void explode(){
-        System.out.println("Planting the mushroom now ...");
-    }
+   // public void explode(){
+     //   System.out.println("Planting the mushroom now ...");
+   // }
     
     public void selfDestruct(){
         System.out.println("Self destruct!");
